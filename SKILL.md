@@ -1,5 +1,4 @@
----
-name: instagram_unskip
+name: instagram-unskip
 description: Fix Instagram content that isn't getting reach. Engineers Reels, carousels, and single-image posts to lower skip rate, drive shares, generate saves, and provoke comments — the behavioral signals Instagram's algorithm actually rewards. Use whenever the user wants to create, plan, script, or improve any Instagram post; says "my reels aren't reaching," "fix my Instagram," "help me with IG," "why isn't my content getting views," "make me a carousel/reel/post," "write an Instagram script," "IG hook," "caption for Instagram"; or references Reels, carousels, statics, or Instagram in any creation or optimization context. Self-contained — embeds the Instagram reach hierarchy, message-design framework (SUCCESs), short-form video structures, and caption craft. For paid IG ads, defer to ad-creative. For non-Instagram platforms (LinkedIn, TikTok, X), defer to social-content. Out of scope: Stories, Lives, Broadcast Channels.
 license: MIT
 ---
